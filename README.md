@@ -36,7 +36,8 @@ python welcome.py
 ###### For FTP Bruteforce use _**pass.txt**_
 
 ## Team
-[__Harshit Arora__](https://github.com/vegeta2op)
+[__Harshit Arora__](https://github.com/vegeta2op),
+
 __Lucky Anand__
 
 ## Resources
