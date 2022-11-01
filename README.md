@@ -43,4 +43,5 @@ __Lucky Anand__
 ## Resources
 
 [Google](https://google.com) 
+
 Github and Black Hat Python Book *(__I'll Provide the link to the book later__)*
