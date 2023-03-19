@@ -1,5 +1,5 @@
 # Cybersecurity-Tool-Development
-## Cracking and Brute-force attcak tool 
+## Cracking and Brute-force attack tool 
 
 ![N|Solid](https://img.icons8.com/doodle/2x/bash.png) ![N|Solid](https://img.icons8.com/color/2x/python--v2.png)
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
